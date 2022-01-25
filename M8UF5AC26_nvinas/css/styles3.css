@@ -1,0 +1,92 @@
+body  {
+    background-color: black;
+}
+.columna {
+    float: inline-start;
+}
+
+#cuadroblanco1 {
+    width: 100px;
+    height: 150px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco2 {
+    width: 100px;
+    height: 350px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco3 {
+    width: 100px;
+    height: 75px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco4 {
+    width: 100px;
+    height: 75px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo1 {
+    width: 250px;
+    height: 692px;
+    background-color: yellow;
+    margin-right: 14px;
+}
+#cuadroazul1 {
+    width: 250px;
+    height: 250px;
+    background-color: blue;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo2 {
+    width: 250px;
+    height: 428px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo1 {
+    width: 250px;
+    height: 400px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo2 {
+    width: 100px;
+    height: 75px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+    float: left;
+}
+#cuadrorojo3 {
+    width: 100px;
+    height: 75px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+    float: right;
+}
+#cuadroazul2 {
+    width: 100px;
+    height: 150px;
+    background-color: blue;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo4 {
+    width: 100px;
+    height: 150px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}

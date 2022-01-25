@@ -1,0 +1,55 @@
+body {
+    background-image: url("../img/IMAGEN.png");
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
+table {
+    /* AIX`O FA .....*/
+    border-collapse: collapse; width: 70%;
+}
+p:hover {
+    background-color: burlywood;
+}
+.p1 {
+    background-color: yellow;
+}
+.p2 {
+    background-color: orange;
+}
+.p3 {
+    background-color: gray;
+}
+.p4 {
+    background-color: orangered;
+}
+.p5 {
+    background-color: red;
+}
+.p6 {
+    background-color: peru;
+}
+.p7 {
+    background-color: saddlebrown;
+}
+.p8 {
+    background-color: sienna;
+}
+.p9 {
+    background-color: brown;
+}
+.p10 {
+    background-color: maroon;
+}
+.a {
+    text-decoration: underline;
+}
+.b {
+    text-decoration: line-through;
+}
+.c {
+    font-weight: bold;
+}

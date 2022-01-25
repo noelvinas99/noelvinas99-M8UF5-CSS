@@ -1,0 +1,31 @@
+header {
+    background-color: red;    
+    height: 40px;
+}
+aside {
+    background-color: green;    
+    height: 300px;
+    width: 27%;
+    margin-top: 10px;
+    display: inline-block;
+}
+#content {
+    height: 310px;
+    width: 70%;
+    float: right;
+}
+nav {
+    background-color:  cornflowerblue;
+    height: 100px;
+    margin-top: 10px;
+}
+article {
+    background-color:  yellow;
+    height: 185px;
+    margin-top: 10px;
+}
+footer {
+    background-color:  rebeccapurple;
+    height: 40px;
+    margin-top: 10px;
+}

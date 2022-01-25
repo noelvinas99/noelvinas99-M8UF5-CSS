@@ -1,0 +1,149 @@
+body  {
+    background-color: black;
+}
+.columna {
+    display: inline-block;}
+
+#cuadroblanco1 {
+    width: 110px;
+    height: 150px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco2 {
+    width: 110px;
+    height: 350px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco3 {
+    width: 110px;
+    height: 75px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco4 {
+    width: 110px;
+    height: 75px;
+    background-color: white;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo1 {
+    width: 240px;
+    height: 695px;
+    background-color: yellow;
+    margin-right: 14px;
+    margin-top: 5px;
+    margin-bottom: 12px;
+}
+#cuadroazul1 {
+    width: 240px;
+    height: 250px;
+    background-color: blue;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo2 {
+    width: 240px;
+    height: 428px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo1 {
+    width: 240px;
+    height: 439px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo2 {
+    width: 110px;
+    height: 75px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo3 {
+    width: 110px;
+    height: 75px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+
+}
+#cuadroazul2 {
+    width: 110px;
+    height: 150px;
+    background-color: blue;
+    margin-bottom: 14px;
+    margin-right: 14px;
+    margin-top: 14px;
+}
+#cuadrorojo4 {
+    width: 110px;
+    height: 150px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo3 {
+    width: 110px;
+    height: 142px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroamarillo4 {
+    width: 110px;
+    height: 65px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadrorojo5 {
+    width: 110px;
+    height: 65px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}
+#cuadroblanco5 {
+    width: 110px;
+    height: 65px;
+    background-color: white;
+    margin-right: 14px;
+}
+#cuadroblanco6 {
+    width: 110px;
+    height: 65px;
+    background-color: white;
+    margin-right: 14px;
+}
+#cuadrorojo6 {
+    width: 240px;
+    height: 200px;
+    background-color: red;
+    margin-bottom: 14px;
+    margin-right: 14px;
+    margin-top: 10px;
+}
+#cuadroamarillo5 {
+    width: 110px;
+    height: 237px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+
+}
+#cuadroamarillo6 {
+    width: 110px;
+    height: 237px;
+    background-color: yellow;
+    margin-bottom: 14px;
+    margin-right: 14px;
+}

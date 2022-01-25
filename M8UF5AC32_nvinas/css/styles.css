@@ -1,0 +1,123 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("../img/fons.jpg");
+    background-size: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+header{
+    width: 50%;
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+#titol{
+    height: 70px;
+    width: 100px;
+    background-color: black;
+    border-radius: 100%;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+#llista ul li a{
+    text-decoration: none;
+}
+#llista ul{
+    list-style: none;
+}
+#titol p {
+    padding-left: 40px;
+}
+#llista {
+    height: 40px;
+    margin: 10px;
+}
+#llista ul {
+    list-style: none;
+    display: flex;
+    height: 40px;
+    margin: 20px;
+    padding-left: 0px;
+}
+#llista ul li {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    margin-left: 10px;
+    background-color: cyan;
+    border-radius: 45%;
+}
+#llista ul li:hover{
+    background-color: gray;
+}
+#llista ul li a {
+    text-decoration: none;
+    height: 35px;
+    color: white;
+    padding-top: 15px;
+}
+h1{
+    margin: 10%;
+}
+#imatges1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 280px;
+    background-color: gray;
+}
+#imatges1 div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 20px;
+}
+#imatges1 div p{
+    text-align: center;
+    font-family: Impact;
+    font-size: 18px;
+    margin-top: 12px;
+}
+#icones{
+    display: flex;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.instagram{
+    color: palevioletred;
+    background-color: white;
+    margin-right: 3px;
+    height: 28px;
+    width: 28px;
+}
+.facebook{
+    color: blue;
+    margin-right: 3px;
+}
+.twitter{
+    color: cyan;
+    margin-right: 3px;
+}
+.flickr{
+    color: white;
+    background: linear-gradient(to right, blue,red);
+    margin-right: 3px;
+    height: 27px;
+}
+.snapchat{
+    color: yellow;
+    background-color: white;
+    margin-right: 3px;
+    height: 27px;
+}
+#footer{
+    margin-top: 30px;
+    font-size: 10px;
+    text-align: center;
+    
+}

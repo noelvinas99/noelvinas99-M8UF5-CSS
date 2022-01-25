@@ -1,0 +1,19 @@
+body {
+    height: 100%;
+}
+.text {
+    min-height: calc(100% - 4rem);
+    text-align: justify;
+}
+.footer {
+    height: 4rem;
+    background-color: midnightblue;
+    color: white;
+    position: fixed;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100%;
+    text-align: left;
+    padding-bottom: 5%;
+}

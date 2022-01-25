@@ -1,0 +1,107 @@
+.grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 30px;
+  }
+.grid-container {
+    display: grid;
+    grid-template-areas:
+      'Hora Dilluns Dimarts Dimecres Dijous Divendres'
+      'Hora2 m07 m06 nada m072 angles'
+      'Hora3 m07 m06 m08 m072 angles'
+      'Hora4 m07 m082 m08 m072 m083'
+      'pati pati pati pati pati pati'
+      'Hora5 m062 m084 tutoria fol m085'
+      'Hora6 m062 nada2 angles2 fol nada3'
+      'Hora7 m062 nada2 nada5 m086 nada3'
+      ;
+    grid-gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+.item1 { grid-area: Hora; }
+.item2 { grid-area: Dilluns; }
+.item3 { grid-area: Dimarts; }
+.item4 { grid-area: Dimecres; }
+.item5 { grid-area: Dijous; }
+.item6 { grid-area: Divendres; }
+.item7 { grid-area: Hora2; }
+.item8 { grid-area: m07; }
+.item9 { grid-area: m06; }
+.item10 { grid-area: nada; }
+.item11 { grid-area: m072; }
+.item12 { grid-area: angles; }
+.item13 { grid-area: Hora3;}
+.item14 { grid-area: m07;}
+.item15 { grid-area: m06;}
+.item16 { grid-area: m08;}
+.item17 { grid-area: m072;}
+.item18 { grid-area: angles;}
+.item19 { grid-area: Hora4;}
+.item20 { grid-area: m07;}
+.item21 { grid-area: m082;}
+.item22 { grid-area: m08;}
+.item23 { grid-area: m072;}
+.item24 { grid-area: m083;}
+.item25 { grid-area: pati;}
+.item26 { grid-area: pati;}
+.item27 { grid-area: pati;}
+.item28 { grid-area: pati;}
+.item29 { grid-area: pati;}
+.item30 { grid-area: pati;}
+.item31 { grid-area: Hora5;}
+.item32 { grid-area: m062;}
+.item33 { grid-area: m084;}
+.item34 { grid-area: tutoria;}
+.item35 { grid-area: fol;}
+.item36 { grid-area: m085;}
+.item37 { grid-area: Hora6;}
+.item38 { grid-area: m062;}
+.item39 { grid-area: nada2;}
+.item40 { grid-area: angles2;}
+.item41 { grid-area: fol;}
+.item42 { grid-area: nada3;}
+.item43 { grid-area: Hora7;}
+.item44 { grid-area: m062;}
+.item45 { grid-area: nada2;}
+.item46 { grid-area: nada5;}
+.item47 { grid-area: m086;}
+.item48 { grid-area: nada3;}
+
+.xarxes {
+  background-image: url("../img/xarxes.png");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.seguretat {
+  background-image: url("../img/seguretat.png");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.webs {
+  background-image: url("../img/webs.jpg");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.tut {
+  background-image: url("../img/tut.png");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.inglish {
+  background-image: url("../img/ingles.png");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.elle {
+  background-image: url("../img/fol.png");
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}

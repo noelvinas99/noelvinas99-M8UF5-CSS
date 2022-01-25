@@ -1,0 +1,96 @@
+h1 {
+    text-align: center;
+}
+nav {
+    margin: 0 5% 0 5%;
+}
+img {
+    width: 100%;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+#segontitol{
+    color: blue;
+    text-align: center;
+    font-style: italic;
+}
+nav ul li {
+    border-left: 1px solid black;
+    padding: 10px;
+}
+nav li:last-of-type{
+    border-right: 1px solid black;
+}
+.imatges{
+    margin: 15%;
+}
+.imatges a:hover {
+    background-color: #111;
+}
+.imatges {
+    display: grid;
+    grid-template-columns: repeat(3, 33%);
+    margin: 0% 15% 0% 15%;
+    text-align: center;
+    font-style: italic;
+}
+#text {
+    margin: 0% 35% 0% 35%;
+    text-align: center;
+}  
+li {
+    display: inline-block;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: -3px;
+    padding: 1px 20px;
+    justify-content: center;
+    align-items: center;
+}
+#boto {
+    background-color: black;
+    color: white;
+    padding: 14px;
+    border-radius: 20%;
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}  
+#formulari {
+    display: flex;
+    justify-content: center;
+    margin: 2% 45% 2% 45%;
+    text-decoration: none;
+}
+#boto:hover {
+    opacity: 50%;
+}
+hr {
+    margin: 0% 8% 0% 8%;
+}
+.final {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-bottom: 2%;
+}
+#menulinks a:any-link {
+    color: gray;
+    text-decoration: none;
+}
+.link a:any-link {
+    color: black;
+    text-decoration: none;
+}

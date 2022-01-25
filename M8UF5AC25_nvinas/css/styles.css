@@ -1,0 +1,31 @@
+header {
+    border: 2px solid red;
+    height: 40px;
+}
+aside {
+    border: 2px solid green;
+    height: 300px;
+    width: 27%;
+    margin-top: 10px;
+    display: inline-block;
+}
+#content {
+    height: 310px;
+    width: 70%;
+    float: right;
+}
+nav {
+    border: 2px solid cornflowerblue;
+    height: 100px;
+    margin-top: 10px;
+}
+article {
+    border: 2px solid yellow;
+    height: 185px;
+    margin-top: 10px;
+}
+footer {
+    border: 2px solid rebeccapurple;
+    height: 40px;
+    margin-top: 10px;
+}
